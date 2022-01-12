@@ -1,1 +1,1 @@
-# Seguridad-en-Sistemas-Inform-ticos
+# Seguridad-en-Sistemas-Informaticos
