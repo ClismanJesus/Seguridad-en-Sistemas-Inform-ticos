@@ -1,0 +1,185 @@
+1642139192829	geckodriver	INFO	Listening on 127.0.0.1:34243
+1642139192833	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilekhWUQM"
+1642139194745	Marionette	INFO	Listening on port 44269
+1642139194846	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://github.githubassets.com/assets/webgl-globe-df1be941.js, line 2827: Failed to create WebGL context: WebGL creation failed: 
+* tryNativeGL
+* Exhausted GL driver options.
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5B001C,name=PHttpChannel::Msg_DeleteSelf) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5B001C,name=PHttpChannel::Msg_DeleteSelf) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5B001C,name=PHttpChannel::Msg_DeleteSelf) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5B001C,name=PHttpChannel::Msg_DeleteSelf) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5B001C,name=PHttpChannel::Msg_DeleteSelf) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5B001C,name=PHttpChannel::Msg_DeleteSelf) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5B001C,name=PHttpChannel::Msg_DeleteSelf) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5B001C,name=PHttpChannel::Msg_DeleteSelf) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5B001C,name=PHttpChannel::Msg_DeleteSelf) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5B001C,name=PHttpChannel::Msg_DeleteSelf) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5B001C,name=PHttpChannel::Msg_DeleteSelf) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5B001C,name=PHttpChannel::Msg_DeleteSelf) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5B001C,name=PHttpChannel::Msg_DeleteSelf) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5B001C,name=PHttpChannel::Msg_DeleteSelf) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5B001C,name=PHttpChannel::Msg_DeleteSelf) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5B001C,name=PHttpChannel::Msg_DeleteSelf) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5B001C,name=PHttpChannel::Msg_DeleteSelf) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5B001C,name=PHttpChannel::Msg_DeleteSelf) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5B001C,name=PHttpChannel::Msg_DeleteSelf) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5B001C,name=PHttpChannel::Msg_DeleteSelf) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5B001C,name=PHttpChannel::Msg_DeleteSelf) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5B001C,name=PHttpChannel::Msg_DeleteSelf) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5B001C,name=PHttpChannel::Msg_DeleteSelf) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5B001C,name=PHttpChannel::Msg_DeleteSelf) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5B001C,name=PHttpChannel::Msg_DeleteSelf) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5B001C,name=PHttpChannel::Msg_DeleteSelf) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5B001C,name=PHttpChannel::Msg_DeleteSelf) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5B001C,name=PHttpChannel::Msg_DeleteSelf) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5B001C,name=PHttpChannel::Msg_DeleteSelf) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5B001C,name=PHttpChannel::Msg_DeleteSelf) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5B001C,name=PHttpChannel::Msg_DeleteSelf) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5B001C,name=PHttpChannel::Msg_DeleteSelf) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5B001C,name=PHttpChannel::Msg_DeleteSelf) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x5B001C,name=PHttpChannel::Msg_DeleteSelf) Channel error: cannot send/recv
+
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2234: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1642139217818	Marionette	INFO	Stopped listening on port 44269
+1642139818653	geckodriver	INFO	Listening on 127.0.0.1:37613
+1642139818657	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileskf8Us"
+1642139820409	Marionette	INFO	Listening on port 39851
+1642139820472	Marionette	WARN	TLS certificate errors will be ignored for this session
+1642139846269	Marionette	INFO	Stopped listening on port 39851
+1642140455244	geckodriver	INFO	Listening on 127.0.0.1:47129
+1642140455247	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileMB5ylx"
+1642140457023	Marionette	INFO	Listening on port 41841
+1642140457071	Marionette	WARN	TLS certificate errors will be ignored for this session
+1642140473449	Marionette	INFO	Stopped listening on port 41841
+1642140595207	geckodriver	INFO	Listening on 127.0.0.1:33257
+1642140595210	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilertMqYg"
+1642140596904	Marionette	INFO	Listening on port 45531
+1642140596928	Marionette	WARN	TLS certificate errors will be ignored for this session
+1642140604436	Marionette	INFO	Stopped listening on port 45531
+1642140629087	geckodriver	INFO	Listening on 127.0.0.1:39349
+1642140629089	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilex68hR9"
+1642140630698	Marionette	INFO	Listening on port 42327
+1642140630713	Marionette	WARN	TLS certificate errors will be ignored for this session
+1642140640164	Marionette	INFO	Stopped listening on port 42327
+1642140654702	geckodriver	INFO	Listening on 127.0.0.1:35939
+1642140654705	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileJwRBvO"
+1642140656389	Marionette	INFO	Listening on port 36787
+1642140656430	Marionette	WARN	TLS certificate errors will be ignored for this session
+1642140665258	Marionette	INFO	Stopped listening on port 36787
+1642141345743	geckodriver	INFO	Listening on 127.0.0.1:43559
+1642141345746	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofiletDJ9c4"
+1642141347401	Marionette	INFO	Listening on port 33717
+1642141347458	Marionette	WARN	TLS certificate errors will be ignored for this session
+1642141364538	Marionette	INFO	Stopped listening on port 33717
+1642141907098	geckodriver	INFO	Listening on 127.0.0.1:48501
+1642141907101	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile0UpYK6"
+1642141908669	Marionette	INFO	Listening on port 46775
+1642141908716	Marionette	WARN	TLS certificate errors will be ignored for this session
+1642141920695	Marionette	INFO	Stopped listening on port 46775
+1642141953848	geckodriver	INFO	Listening on 127.0.0.1:54417
+1642141953851	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileNlgXCw"
+1642141955470	Marionette	INFO	Listening on port 42487
+1642141955562	Marionette	WARN	TLS certificate errors will be ignored for this session
+1642141968202	Marionette	INFO	Stopped listening on port 42487
+1642142014747	geckodriver	INFO	Listening on 127.0.0.1:43137
+1642142014750	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilenN446n"
+1642142016422	Marionette	INFO	Listening on port 36895
+1642142016469	Marionette	WARN	TLS certificate errors will be ignored for this session
+1642142028947	Marionette	INFO	Stopped listening on port 36895
+1642142296489	geckodriver	INFO	Listening on 127.0.0.1:53887
+1642142296492	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileuOBAmh"
+1642142298071	Marionette	INFO	Listening on port 41275
+1642142298101	Marionette	WARN	TLS certificate errors will be ignored for this session
+1642142309067	Marionette	INFO	Stopped listening on port 41275
+1642142720873	geckodriver	INFO	Listening on 127.0.0.1:32821
+1642142720876	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofiletekclY"
+1642142722688	Marionette	INFO	Listening on port 43373
+1642142722694	Marionette	WARN	TLS certificate errors will be ignored for this session
+1642142734029	Marionette	INFO	Stopped listening on port 43373
+1642142764191	geckodriver	INFO	Listening on 127.0.0.1:54849
+1642142764194	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofile2rvR39"
+1642142765779	Marionette	INFO	Listening on port 33789
+1642142765802	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1642142775122	Marionette	INFO	Stopped listening on port 33789
+1642142976113	geckodriver	INFO	Listening on 127.0.0.1:33731
+1642142976116	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileoIq8sX"
+1642142977664	Marionette	INFO	Listening on port 39039
+1642142977731	Marionette	WARN	TLS certificate errors will be ignored for this session
+1642142997838	Marionette	INFO	Stopped listening on port 39039
+1642144144656	geckodriver	INFO	Listening on 127.0.0.1:51471
+1642144144659	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileHAmxXW"
+1642144146298	Marionette	INFO	Listening on port 41357
+1642144146372	Marionette	WARN	TLS certificate errors will be ignored for this session
+1642144157696	Marionette	INFO	Stopped listening on port 41357
