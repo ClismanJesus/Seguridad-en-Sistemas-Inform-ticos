@@ -9,6 +9,7 @@ home_link = 'https://accounts.google.com/signin/v2/identifier?service=classroom&
 username = 'cmorenom@uni.pe'
 password = 'pass'
 
+
 driver.get(home_link)
 
 element = driver.find_element_by_id('identifierId')
