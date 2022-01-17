@@ -12,7 +12,7 @@ driver = webdriver.Firefox(executable_path=r'/home/cmorenom/Escritorio/Portafoli
 home_link = 'https://accounts.google.com/signin/v2/identifier?service=classroom&passive=1209600&continue=https%3A%2F%2Fclassroom.google.com%2Fu%2F0%2Fh%3Fhl%3Des&followup=https%3A%2F%2Fclassroom.google.com%2Fu%2F0%2Fh%3Fhl%3Des&hl=es&flowName=GlifWebSignIn&flowEntry=ServiceLogin'
 
 username = 'cmorenom@uni.pe'
-password = 'COMPUTER0101'
+password = 'pass'
 
 driver.get(home_link)
 element = driver.find_element_by_id('identifierId')
